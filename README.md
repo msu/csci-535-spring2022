@@ -101,11 +101,11 @@ $ git pull upstream main
 
 As a general workflow on your own repository, I suggest:
 ```
-$ git pull upstream main
+$ git pull upstream master
 [[ do work here ]]
 $ git add [[ list filenames edited ]]
 $ git commit -m "Descriptive message here"
-$ git push
+$ git push origin main
 ```
 
 ## Grading
