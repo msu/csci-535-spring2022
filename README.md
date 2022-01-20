@@ -327,9 +327,13 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
 
 ### Week 1 (19 January)
 
-- Topics: Introduction to Topology: Sets and Functions, Neighborhoods, and More!
-- Suggested Reading: [Munkres, Topology](http://www.maths.ed.ac.uk/~aar/papers/munkres2.pdf), Chapter 1
+- Topics: Introductions, Graphs, and Connectivity
 - Quiz: none!
+- Links:
+    * [Miro](https://miro.com/app/board/uXjVOTjaBf4=/?invite_link_id=510668821657)
+    * [Euler,
+      1736](https://archive.org/details/commentariiacade08impe/page/n185/mode/2up),
+      page 186
 
 ### Finals Week
 
