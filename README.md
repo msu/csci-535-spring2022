@@ -313,6 +313,7 @@ hear or smell you.
 - [Plagiarism Blogpost](https://mrwachs.wordpress.com/2019/11/25/what-is-plagiarism-in-computer-science/#:~:text=The%20term%20plagiarism%20can%20be,them%20off%20as%20one's%20own%E2%80%9D.&text=Similarly%2C%20at%20Stanford%2C%2020%25,class%20were%20flagged%20for%20cheating)
 - [Ott's 10 Tips](http://www.ms.uky.edu/~kott/proof_help.pdf)
 - [Big-O, Intuitive Explanation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [Graph Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/05-graphs.pdf), including Whatever First Search.
 
 ### Course Textbook(s) 
 
@@ -328,12 +329,22 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
 ### Week 1 (19 January)
 
 - Topics: Introductions, Graphs, and Connectivity
-- Quiz: none!
+- Quiz/Homework: none!
 - Links:
     * [Miro](https://miro.com/app/board/uXjVOTjaBf4=/?invite_link_id=510668821657)
-    * [Euler,
-      1736](https://archive.org/details/commentariiacade08impe/page/n185/mode/2up),
+    * [Euler, 1736](https://archive.org/details/commentariiacade08impe/page/n185/mode/2up),
       page 186
+
+### Week 2 (24-26 January)
+
+- Topics: Analyzing Algorithms and Point Set Topology
+- Quiz Thursday!
+- Links:
+    * [Miro](https://miro.com/app/board/uXjVOTc9viA=/?invite_link_id=996086865917)
+    * [Wiki: Eulerian Path](https://en.wikipedia.org/wiki/Eulerian_path)
+- Readings:
+    * CLRS, Section 2.1 on Loop Invariants
+    * TBD
 
 ### Finals Week
 
