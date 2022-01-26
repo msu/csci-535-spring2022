@@ -1,0 +1,114 @@
+\documentclass{article}
+\usepackage{../fasy-hw}
+\usepackage{ wasysym }
+
+%% UPDATE these variables:
+\renewcommand{\hwnum}{1}
+\title{Computational Topology, Homework 1}
+\author{\todo{your name here}}
+\collab{\todo{list your collaborators here}}
+\date{due: 3 February 2022}
+
+\begin{document}
+
+\maketitle
+
+\input{../directions}
+
+\nextprob{Taks}
+% \collab{if applicable, update collab list}
+\collab{n/a}
+
+Please do the following:
+\begin{enumerate}
+    \item Write this homework in LaTex.  (You can use this document as a
+        starting point!)  Note: if you have not used LaTex before and this is an
+        issue for you, please contact me.
+    \item Update your photo on D2L to be a recognizable headshot of you.
+    \item Sign up for the class slack group.
+    \item Fill out the course survey (found on the syllabus).
+\end{enumerate}
+
+\nextprob{}
+% \collab{if applicable, update collab list}
+
+Please read (or skim through) Eugenia Cheng’s
+\href{http://www.ms.uky.edu/~kott/proof_help.pdf}{Quick Guide for Writing
+Proofs}
+and describe one thing
+that you already do well in your academic writing / proof writing,
+and one thing that you will work on improving
+throughout during this class.  You can reference additional resources, but be
+sure to provide full references, either as footnotes or as a proper bibtex
+citation!
+
+\nextprob{}
+% \collab{if applicable, update collab list}
+
+Follow the Inkscape tutorial found here:
+\url{http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html}.
+Then, make an
+inkscape figure illustrating any concept that you would like.
+Include the (PDF) images of both the soup can and your own figure as
+floating figures in
+your final write-up for this problem.  Don't forget to add a captions (and to
+reference the figures!
+
+\nextprob{}
+% \collab{if applicable, update collab list}
+ Watch the short \href{https://youtu.be/XfWibrh6stw}{YouTube} video.
+ There is a topological
+ error in the example he gives with the letter `A'.  What are the topological equivalence
+classes of the letters A seen in this video?  Feel free to add additional
+items to your equivalence classes for the letter `A'.  (You don't need to prove
+that these are the equivalence classes, but a brief justification is expected).
+
+\nextprob{}
+% \collab{if applicable, update collab list}
+Use the definition of big-O notation to prove that $f(x)=n^2 + 3n +2$ is
+$O(n^2)$.
+
+\nextprob{}
+% \collab{if applicable, update collab list}
+Let $f \colon \R \to \R$ be a function.
+The function $f$ is considered open if for all open sets $A \subseteq \R$,
+$f^{-1}(A)$ is open in $\R$, where open is defined by the standard topology on
+$\R$ (so, what we normally think of as open).  Let~$c \in \R$.  Consider the
+function $f_c \colon \R \to \R$ defined by $f_c(x) = c$ for all $x \in \R$. Prove
+that $f_c$ is continuous.
+
+\nextprob{}
+% \collab{if applicable, update collab list}
+
+Consider a graph $G=(V,E)$. The \emph{eccentricity} of a vertex $v \in V$ is the
+maximum distance from $v$ to any other vertex in $V$. (Note: the \emph{(graph) distance} between
+$a,b\in V$ is the minimum length of a path from $a$ to~$b$; the \emph{length} of
+a path in an unweighted graph is the number of edges in the path). The
+following algorithm computes the ecentricity of a vertex in a graph.  For the
+while loop, provide the loop invariant and prove that it is the loop invariant.
+In this algorithm, $Q$ is a (minimum) priority queue.
+
+\begin{algorithm}
+    \caption{Eccentricity(G,v)}
+    \begin{algorithmic}[1]
+        \REQUIRE a connected graph $G=(V,E)$ such that $|V| \geq 2$; a vertex $v \in V$
+        \ENSURE the eccentricity of $v$
+        \STATE For each vertex, add an attribute $dist$ and set it to $\infty$.
+        \STATE $v.dist \gets 0$.
+        \STATE Create a priority queue $Q$ of vertices, where each
+                vertex $w\in V$ has priority $w.dist$.
+        \STATE $maxdist \gets \infty$
+        \WHILE{$Q$ is not empty}
+            \STATE $w \gets $Q.pop() \COMMENT{1.5in}{Since $Q$ is a priority queue,
+                                                $w.dist \leq x.dist$ for all $x \in Q$}
+            \STATE $maxdist \gets w.dist$
+            \FOR{each edge $(w,x) \in E$ such that $x \in Q$}
+                \STATE $x.dist \gets w.dist +1$
+            \ENDFOR
+        \ENDWHILE
+        \RETURN $maxdist$
+    \end{algorithmic}
+\end{algorithm}
+
+\end{document}
+
