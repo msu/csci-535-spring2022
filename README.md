@@ -318,6 +318,7 @@ hear or smell you.
 ### Course Textbook(s) 
 
 - Edelsbrunner and Harer, Computational Topology
+- Cormen, Leiserson, Rivest, and Stein, Introduction to Algorithms (in MSU library online!)
 - Additional readings as assigned below
 
 ### End of Syllabus Task
@@ -343,7 +344,7 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
     * [Miro](https://miro.com/app/board/uXjVOTc9viA=/?invite_link_id=996086865917)
 - Readings:
     * [Wiki: Eulerian Path](https://en.wikipedia.org/wiki/Eulerian_path)
-    * CLRS, Section 2.1 on Loop Invariants (handout in D2L)
+    * CLRS, Section 2.1 on Loop Invariants
     * EH, Sections I.1-I.3
 
 ### Finals Week
