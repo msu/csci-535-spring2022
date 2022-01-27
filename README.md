@@ -341,7 +341,8 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
 - Topics: Analyzing Algorithms and Point Set Topology
 - Quiz Thursday!
 - Links:
-    * [Miro](https://miro.com/app/board/uXjVOTc9viA=/?invite_link_id=996086865917)
+    * [Miro Tues](https://miro.com/app/board/uXjVOTc9viA=/?invite_link_id=996086865917)
+    * [Miro Thurs](https://miro.com/app/board/uXjVOSfNjfU=/?invite_link_id=284163476065)
 - Readings:
     * [Wiki: Eulerian Path](https://en.wikipedia.org/wiki/Eulerian_path)
     * CLRS, Section 2.1 on Loop Invariants
