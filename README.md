@@ -353,7 +353,7 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
 - Topics: 
 - HW Due Thursday!
 - Links:
-    * [Miro Tues](https://miro.com/app/board/uXjVOQo8q44=/?invite_link_id=81121132887)
+    * [Miro Tues](https://miro.com/app/board/uXjVOQo8q44=/?invite_link_id=822112060696)
 - Readings:
 
 ### Finals Week
