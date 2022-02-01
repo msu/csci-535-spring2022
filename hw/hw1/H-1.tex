@@ -103,7 +103,7 @@ In this algorithm, $Q$ is a (minimum) priority queue.
                                                 $w.dist \leq x.dist$ for all $x \in Q$}
             \STATE $maxdist \gets w.dist$
             \FOR{each edge $(w,x) \in E$ such that $x \in Q$}
-                \STATE $x.dist \gets w.dist +1$
+                \STATE $x.dist \gets \min \{ x.dist, w.dist +1 \} $
             \ENDFOR
         \ENDWHILE
         \RETURN $maxdist$
