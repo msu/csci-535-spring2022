@@ -336,7 +336,7 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
     * [Euler, 1736](https://archive.org/details/commentariiacade08impe/page/n185/mode/2up),
       page 186
 
-### Week 2 (24-26 January)
+### Week 2 (24,26 January)
 
 - Topics: Analyzing Algorithms and Point Set Topology
 - Quiz Thursday!
@@ -347,6 +347,14 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
     * [Wiki: Eulerian Path](https://en.wikipedia.org/wiki/Eulerian_path)
     * CLRS, Section 2.1 on Loop Invariants
     * EH, Sections I.1-I.3
+
+### Week 3 (1,3 February)
+
+- Topics: 
+- HW Due Thursday!
+- Links:
+    * [Miro Tues](https://miro.com/app/board/uXjVOQo8q44=/?invite_link_id=81121132887)
+- Readings:
 
 ### Finals Week
 
