@@ -350,11 +350,11 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
 
 ### Week 3 (1,3 February)
 
-- Topics: 
+- Topics: Curves in R^n
 - HW Due Thursday!
 - Links:
     * [Miro Tues](https://miro.com/app/board/uXjVOQo8q44=/?invite_link_id=822112060696)
-- Readings:
+- Readings: EH, Chapter I
 
 ### Finals Week
 
