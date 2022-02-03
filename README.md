@@ -354,6 +354,7 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
 - HW Due Thursday!
 - Links:
     * [Miro Tues](https://miro.com/app/board/uXjVOQo8q44=/?invite_link_id=822112060696)
+    * [Miro Thurs](https://miro.com/app/board/uXjVOQY8LdQ=/?invite_link_id=187627758056)
 - Readings: EH, Chapter I
 
 ### Finals Week
