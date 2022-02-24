@@ -357,6 +357,25 @@ Thank you for reading the syllabus.  As part of the first assignment, please [co
     * [Miro Thurs](https://miro.com/app/board/uXjVOQY8LdQ=/?invite_link_id=187627758056)
 - Readings: EH, Chapter I
 
+### Week 4 (8,10 February)
+
+- Topics: Graphs, Knots, and Invariants
+- Guest Lecture Tuesday by Facundo Memoli, [An Introduction to Persistent Homology via an Example from Neuroscience](https://github.com/ndag/TDA-and-Neuro/)
+- Quiz Thursday!
+- Readings: EH, Sections II.1-2 
+
+### Week 5 (15,17 February)
+
+- Topics: Manifolds
+- HW Due Thursday!
+- Readings: EH, Sections II.3-4 
+
+### Week 6 (22,24 February)
+
+- Topics: Complexes
+- Quiz Thursday!
+- Readings: EH, Sections III.1-3
+
 ### Finals Week
 
 - The final meeting period is Tuesday, 10 May 2022, 12:00-13:15. (TODO: someone in this class needs to verify this information)
