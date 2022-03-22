@@ -159,7 +159,7 @@ The following are the assignments that count towards the Homework grade:
   articles are written individually, so if you are working on a project
   together, I suggest that you have different spins on the related research, so
   that this lit review can be helpful for making progress on your course
-  project.  Due date: TBD.
+  project.  Due date: 7 April 2022.
 - (n+1)st assignment: Write a two-page paper describing to me how you have grown
   as a computer scientist, mathematician, and/or a researcher in this class, and
   more generally, in this semester.  To support your argument, you should
