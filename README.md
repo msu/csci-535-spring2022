@@ -147,7 +147,7 @@ additional resources, please ask.
 
 The following are the assignments that count towards the Homework grade:
 
-- Bi-weekly homeworks: there will be 8 standard homework assignments (some will be
+- Bi-weekly homeworks: there will be bi-weekly standard homework assignments (some will be
   group assignments).
 - Literature Review: For this assignment you are asked to write a short
   literature review or survey articale  on a topology-related research topic of
@@ -173,6 +173,25 @@ scale: incomplete, low pass, pass, high pass. These problem grades will be used
 to calculate an overall letter grade (e.g., all HP=A+) for the assignment. This
 might take time to adjust to, but hopefully it takes the focus away from the
 grade itself and allows you to focus on learning the material.
+
+### Class Project
+
+The class project is open-form.  The course project will be an opportunity for
+you to investigate a research topic in computational topology (broadly
+interpreted).  This can take the form of investigating an application of
+topological (or geometric) techniques to understanding your data set of choice,
+or studying a computational problem in topology/geometry. The final project
+might take the form of a website (easy to make these days!), or a traditional
+paper, or something else appropriate for your topic.  Be creative! 
+
+The final presentations will be the last week of class (the week before finals).
+It is expected that you will touch base with me about your chosen topic on or
+before 12 April.
+
+Note: If your project overlaps with other classes or your paid research hours,
+please discuss with me.  This is ok, but some line will need to be drawn to
+differentiate this course project from your other projects.  And, approval from
+the other instructor / research adviser will need to be ensured.
 
 ### Policy on Collaboration
 
